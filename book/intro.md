@@ -30,7 +30,7 @@ For a more detailed overview of the learning goals download the [Learning Goals 
 | **2: Search**<br>Set up and store a basic search strategy for scientific literature for your MSc thesis | 2a. Know different types of academic databases and how to access them<br>2b. Set up a keyword search strategy for a search in an academic database<br>2c. Evaluate and improve an initial search strategy<br>2d. Know additional ways to find academic literature<br>2e. Use search alerts to stay informed about the latest research |
 | **3: Evaluate**<br>Use basic ways to assess relevance and reliability of sources, select information for your MSc thesis and know how to store information effectively | 3a. Become aware of limitations of AI and other information sources<br>3b. Use the CRAAP framework to assess relevance and reliability of a source<br>3c. Apply the title-abstract method to select academic literature<br>3d. Use relevant software and best practices to store information for your master thesis |
 | **4: Process**<br>Understand how to read, summarise and synthesise during your MSc thesis | 4a. Apply best practices when reading literature for your MSc thesis<br>4b. Know how to summarise a source<br>4c. Understand how the process of synthesising works and know how to get started |
-| **5: Share**<br>Apply correct citation and copyright practices when sharing the results of your MSc thesis. Know about open science principle | 5a. Understand ways of citing, apply a correct referencing style and create a reference list for a variety of sources<br>5b. Know why and how you should acknowledge the use of AI in your work<br>5c. Correctly (re)use sources in accordance with their copyright licensing<br>5d. Know about open science principles |
+| **5: Share**<br>Apply correct citation and copyright practices when sharing the results of your MSc thesis. Know about open science principles | 5a. Understand ways of citing, apply a correct referencing style and create a reference list for a variety of sources<br>5b. Know why and how you should acknowledge the use of AI in your work<br>5c. Correctly (re)use sources in accordance with their copyright licensing<br>5d. Know about open science principles |
 ```
 
 ### Chapter Structures
@@ -61,11 +61,11 @@ Thank you to all the reviewers involved in reviewing this book.
 ### Sources
 The sources that were used for this book are referenced at the end of each section.
 
-In addition to the sources mentioned this guide reuses materials from:
-- The Information Literacy 1 and Information Literacy 2 courses at TU Delft.
-- "TUlib" by TU Delft Library is licensed under CC BY-SA 4.0
-- "AI for Literature Review" by TU Delft is licensed under CC BY 4.0
+In addition to the sources referenced this guide reuses materials from:
 
+- The Information Literacy 1 and Information Literacy 2 courses at TU Delft.
+- <a href="https://www.tudelft.nl/tulib" target=_blank>"TUlib"</a> by <a href="https://www.tudelft.nl/en/library/" target=_blank>TU Delft Library</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target=_blank>CC BY-SA 4.0</a>
+- <a href="https://ai-for-literature-review.github.io/Guide/about.html" target=_blank>"AI for Literature Review"</a> by <a href="https://www.tudelft.nl/en/library/" target=_blank>TU Delft Library Education Support</a> & <a href="https://www.tudelft.nl/en/tpm/itav" target=_blank>Centre for Languages and Academic Skills</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target=_blank>CC BY 4.0</a>
 
 ### Images
 Unless otherwise specified the images used on these pages are adapted from <a href="https://undraw.co/" target="_blank">unDraw</a>, licensed <a href="https://undraw.co/license" target="_blank">open-source</a> by Katerina Limpitsouni.
