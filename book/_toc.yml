@@ -5,6 +5,7 @@ root: about
 
 parts:
   - caption: About This Guide
+    chapters:
       - file: about
   - caption: Information Steps During Your Thesis
     chapters: 
