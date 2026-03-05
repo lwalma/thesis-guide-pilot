@@ -1,47 +1,39 @@
 # Configuration of _toc.yml file is explained in detail here: https://jupyterbook.org/en/stable/structure/toc.html and https://sphinx-external-toc.readthedocs.io/en/latest/user_guide/sphinx.html
 
 format: jb-book
-root: intro.md
+root: about.md
 
 parts:
-  - caption: Part with some content # A title for the whole the subtree, e.g. shown above the subtree in ToCs, configuration part of sphinx-external-toc (https://sphinx-external-toc.readthedocs.io/en/latest/intro.html)
-    numbered: false                 # Default value (line can be removed), whether to number the chapters/sections in this part, configuration part of sphinx-external-toc (https://sphinx-external-toc.readthedocs.io/en/latest/intro.html)
-    style: numerical                # Default value (line can be removed), style of numbering for this part, configuration part of TeachBooks' version of sphinx-external-toc (https://github.com/TeachBooks/sphinx-external-toc?tab=readme-ov-file#toc-tree-options)
-    restart_numbering: false        # Default value (line can be removed), whether to restart numbering for this part, configuration part of TeachBooks' version of sphinx-external-toc (https://github.com/TeachBooks/sphinx-external-toc?tab=readme-ov-file#toc-tree-options)
-    chapters:
-    - file: some_content/overview.md
-      sections:
-      - file: some_content/text_and_code.ipynb
-  - caption: Exercises
-    chapters:
-    - file: exercises.md
-      sections:
-      - file: exercises/001.md
-      - file: exercises/002.md
-      - file: exercises/003.md
-      - file: exercises/004.md
-      - file: exercises/005.md
-      - file: exercises/005a.md
-      - file: exercises/006.md
-      - file: exercises/summary
-    - file: syntax_exercises.md
-      sections:
-      - file: syntax_exercises/007.md
-      - file: syntax_exercises/008.md
-      - file: syntax_exercises/009.md
-      - file: syntax_exercises/010.md
-      - file: syntax_exercises/011.md
-      - file: syntax_exercises/012.md
-      - file: syntax_exercises/013.md
-    - file: extensions.md
-      sections:
-      - file: exercises/007.md
-      - file: extension_exercises/017.md
-      - file: extension_exercises/014.md
-      - file: extension_exercises/015.md
-      - file: extension_exercises/016.md
-  - caption: Miscellaneous
-    chapters:
-    - file: references.md
-    - file: changelog.md
-    - file: credits.md
+title: Introduction
+parts:
+  - caption: Information Steps During Your Thesis
+    chapters: 
+      - file: 1-orientate
+        sections:
+          - file: 1a-brainstorming
+          - file: 1b-formulate-research-question
+          - file: 1c-exploring-academic-literature
+      - file: 2-search
+        sections:
+          - file: 2a-select-database
+          - file: 2b-create-keyword-search
+          - file: 2c-evaluate-search-results
+          - file: 2d-additional-search-methods
+          - file: 2e-document-search
+      - file: 3-evaluate-and-select
+        sections:
+          - file: 3a-limitations-of-sources
+          - file: 3b-evaluating-sources
+          - file: 3c-select-effectively
+          - file: 3d-store-sources
+      - file: 4-process-sources
+        sections:
+          - file: 4a-read
+          - file: 4b-summarise
+          - file: 4c-synthesise
+      - file: 5-share
+        sections:
+          - file: 5a-citing
+          - file: 5b-specifying-ai-use
+          - file: 5c-images-code
+          - file: 5d-open-science
