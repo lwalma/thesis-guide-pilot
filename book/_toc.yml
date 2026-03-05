@@ -1,11 +1,10 @@
 # Configuration of _toc.yml file is explained in detail here: https://jupyterbook.org/en/stable/structure/toc.html and https://sphinx-external-toc.readthedocs.io/en/latest/user_guide/sphinx.html
 
 format: jb-book
-root: about.md
+root: about
 
 parts:
 title: Introduction
-parts:
   - caption: Information Steps During Your Thesis
     chapters: 
       - file: 1-orientate
