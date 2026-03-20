@@ -74,13 +74,9 @@ Unless otherwise specified the images used on these pages are adapted from <a hr
 ### Disclosure of AI Use
 While creating this book, we used AI for:
 - Brainstorming and refining guided activities
-- Drafting/brainstorming on knowledge check questions
-- Setting up the basic template of the Jupyter Book
+- Drafting/brainstorming knowledge check questions
 - Cleaning up formatting
 
-Model used: 
+AI tools used: 
 - OpenAI. (2025). _ChatGPT_ (paid version 4 September 2025 - 10 October 2025)[Large language model]. <a href="https://chat.openai.com/chat" target="_blank">https://chat.openai.com/chat</a>
 - Microsoft. (2025). _Copilot_ (January 2026 version) [Large language model]. <a href="https://copilot.microsoft.com" target="_blank">https://copilot.microsoft.com</a>
-
-### Last Updated
-April 2026
