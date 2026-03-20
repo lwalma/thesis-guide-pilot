@@ -42,11 +42,11 @@ Each chapter includes a landing page. Here you will find:
 - A template you can use directly while working on your MSc thesis
 
 #### Subchapters
-After the landing page, you can find more detailed information on all the steps part of a specific phase. All include guided additional guided activities to help you apply the information while working on your MSc thesis.
+After the landing page, you can find more detailed information on all the steps part of a specific phase. All include additional guided activities to help you apply the information while working on your MSc thesis.
 
 ```{admonition} Tip
 :class: tip
-Want to know more about what others have done before? Have a look at the <a href="https://repository.tudelft.nl/search?page=1&sort=relevance&record_type=master_thesis" target="_blank">TU Delft Thesis Repository</a> to see examples from your own programs!
+Want to learn from what previous students have done? In the <a href="https://repository.tudelft.nl/search?page=1&sort=relevance&record_type=master_thesis" target="_blank">TU Delft Thesis Repository</a> you can access master theses made by students from your own program!
 
 ```
 
