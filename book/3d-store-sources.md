@@ -51,7 +51,7 @@ Manually add some references to your library. Look at the available document typ
 
 Install relevant plugins to import an article straight from the browser. 
 
-** Step 4: Adding academic articles via a PDF import:**
+**Step 4: Adding academic articles via a PDF import:**
 
 Import a pdf-file and extract the bibliographic information from it. Does this work as expected, and does it always extract enough information?
 
