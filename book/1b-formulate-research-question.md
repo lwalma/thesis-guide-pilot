@@ -23,17 +23,16 @@ Break your question down into broader or more narrow components
 
 ## Step 1: Defining Components of an Information Question
 
-When you have done an initial exploration of your sources, take your mind map or summaries and try to formulate a question. You should define the who, what, where and why you are going to study. 
+When you have done an initial exploration of your sources, take your mind map or summaries and try to formulate an information search question. You should define the who, what, where and why you are going to study. 
 
-<a href="https://libguides.uvt.nl/tip-tutorial/research-question" target=_blank>Tilburg University</a> has some good considerations on formulating a relevant research question for an information search. It should be: 
+<a href="https://libguides.uvt.nl/tip-tutorial/research-question" target=_blank>Tilburg University</a> has some good considerations on formulating a relevant question for an information search (Lier, M. van, n.d.). It should be: 
 - Clear
 - Specific
 - Manageable within the time you have
-(Lier, M. van., n.d.)
 
 ### Example Research scenario
 
-In this scenario, we have made a concept map from the information we have brainstormed around our subject. We can then use the concept map to formulate various information search questions. You formulate research questions by looking at the relations and dependencies of different branches of the concept map.
+In the example scenario our topic was sustainable development of car industry. Based on our initial brainstorming and general searches we craeted a concept map connecting our initial information. You can see this in the image below. We can now use the concept map to formulate various information search questions. You formulate these questions by looking at the relations and dependencies of different branches of the concept map.
 
 ![mindmap](1b-mindmap.jpg)
 "Mindmap" by TU Delft Library Education Support is licensed CC-BY-SA
@@ -44,7 +43,7 @@ Possible questions that can be derived from the mind map are:
 - How can the automotive industry improve the environmental impact through material recycling in car design?
 - Do car free zones have a positive impact on societal behaviour and impact the automotive industry?
 
-A research question can get too complex to solve at once. To create more structure and make the research question more manageable, it can be helpful to divide it into sub-questions.
+An information search question can get too complex to solve at once. To create more structure and make the question more manageable, it can be helpful to divide it into sub-questions.
 
 ```{admonition} Example Subquestions
 :class: dropdown tip
