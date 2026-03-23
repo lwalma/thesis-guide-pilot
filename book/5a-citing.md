@@ -116,5 +116,5 @@ Reference styles can be divided into two main groups: author-date styles and num
 
 ``` {admonition} Use Reference Managers
 :class: tip
-When formatting references, using reference management software like Zotero, Mendeley or Endnote can be very helpful.
+When formatting references, using reference management software like Zotero, Mendeley or Endnote can be very helpful. You can choose your reference style and your reference manager will format it accordingly.
 ```
