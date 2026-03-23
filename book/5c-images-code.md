@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Your thesis is your work. If others want to reuse it, it is only logical that someone gives your credit for all the hard work you put in. On the other hand, if you reuse the work of others in your thesis, you should also credit them for the work they did. 
+Your thesis is your work. If others want to reuse it, it is only logical that someone gives you credit for all the hard work you put in. On the other hand, if you reuse the work of others in your thesis, you should also credit them for the work they did. When you are reusing figures, data, images or other works by others you will have to make sure that you credit the creators accordingly.
 
 This is what copyright is about. It helps set the conditions under which others may resuse your work, or help you understand how you can reuse the work of others. It’s important that you know exactly how to do this correctly, and it’s also important to know how to protect your own published work.
 
@@ -35,18 +35,14 @@ License your own work
 
 ## Step 1: Recognise copyrighted works
 
-Just as you cite texts from sources in your thesis, when you are using figures, articles, images or other works by others you will have to make sure that you credit the creators accordingly.
-
-```{admonition} Exceptions for copyright permissions
-:class: warning
-All work has some form of copyright, and if you want to reuse it, you need to know if you have permission to do so. It is not always enough to simply cite your source.
-```
-
 When using someone else’s copyrighted work, attribute copyrighted work in the manner specified by the creator of the work. In many works this is clearly mentioned. In some cases you will need to contact the creator to ask permission to use or reuse the work.
 
+```{admonition} Warning: Always check before reusing someone's work!
+:class: warning
+All work is copyrighted, and if you want to reuse it, you need to know if you have permission to do so. It is not always enough to simply cite where something is from, you need to check if you are allowed to reuse it.
+```
+
 If a work is in the public domain (from 70 years after the death of the maker of a work if the copyright holder is a physical person, or after the year of the first publication if the copyright holder is a legal person), you don’t have to ask for permission but you have to mention that it belongs to “the public domain”.
-
-
 
 ```{admonition} Exceptions for copyright permissions
 :class: dropdown note
@@ -64,18 +60,16 @@ You have to ask for permission from the copyright holder to reproduce an image, 
 ## Step 2: Recognise licenses
 When reusing someone's work you should check the work for the copyright license. If it is online often this will be somewhere on the about page or at the bottom of the site. 
 
-Symbols you will likely encounter are: (©) , or a statement like "all rights reserved." When statements like this are included in the work you should ask for permission if you want to reuse it. If copyright information is missing or cannot be found, you should also assume the work is copyright-protected and ask for permission to reuse (Wageningen University Library, n.d.).
+Symbols you will likely encounter are: (©) , or a statement like "all rights reserved." When statements like this are included in the work you should ask for permission if you want to reuse it. If copyright information is missing or cannot be found, this doesn't mean that the work is not copyrighted. Instead, you should assume that the work is copyright-protected and ask for permission to reuse (Wageningen University Library, n.d.).
 
-However, there are also more open licenses that allow you to reuse a work without asking for permission. These are Creative Commons licenses. These are free  copyright licenses which let others know under which conditions they can reuse your work. There are a variety of licenses, with different levels of openness. One of the most open and commonly used is called CC-BY: meaning others can reuse your work freely, as long as they give you credit. You will find them in similar locations as the copyright statements. 
-
-- One of the most common licenses you will encounter is CC-BY. This means that you are free to reuse the work as long as you attribute the original creator. 
-
-- Another license that allows you to reuse a work freely is when it is in the public domain (PD) or when the copyright holder waives their copyright (CC0).
+However, there are also more open licenses that allow you to reuse a work without asking for permission. For example, the Creative Commons licenses. These are free copyright licenses which let others know under which conditions they can reuse your work. There are a variety of licenses, with different levels of openness. One of the most open and commonly used is called CC-BY: meaning others can reuse your work freely, as long as they give you credit. You will find them in similar locations as the copyright statements. Another license that allows you to reuse a work freely is when the copyright holder waives their copyright (CC0).
 
 Not all creative commons licenses allow you to reuse the source freely. There might for example be limitations on the purpose of reusing the work (for example, CC-BY-NC means you can reuse the work, but not for commercial purposes), or on if you can adapt the work (For example, CC-BY-ND means you can reuse the work, but you are not allowed to change it). The image below gives an overview of the different Creative Commons licenses you might encounter and what you are allowed to do with the work:
 
 ![CC-Licenses](5c-CC-licenses.jpg)<br>
 How to attribute creative commons photos by Foter https://foter.com/blog/how-to-attribute-creative-commons-photos/ is licensed CC-BY-SA
+
+Another license that allows you to reuse the work freely is when the work is in the public domain (PD).
 
 ## Step 3: Taking care of your own copyright
 You do not have to do anything to obtain copyright, such as a registration process or putting a copyright symbol (©) or statement in your work. It must be clear that you wrote or produced the work yourself.
