@@ -37,6 +37,11 @@ License your own work
 
 Just as you cite texts from sources in your thesis, when you are using figures, articles, images or other works by others you will have to make sure that you credit the creators accordingly.
 
+```{admonition} Exceptions for copyright permissions
+:class: warning
+All work has some form of copyright, and if you want to reuse it, you need to know if you have permission to do so. It is not always enough to simply cite your source.
+```
+
 When using someone else’s copyrighted work, attribute copyrighted work in the manner specified by the creator of the work. In many works this is clearly mentioned. In some cases you will need to contact the creator to ask permission to use or reuse the work.
 
 If a work is in the public domain (from 70 years after the death of the maker of a work if the copyright holder is a physical person, or after the year of the first publication if the copyright holder is a legal person), you don’t have to ask for permission but you have to mention that it belongs to “the public domain”.
@@ -49,7 +54,7 @@ If a work is in the public domain (from 70 years after the death of the maker of
 You have to ask for permission from the copyright holder to reproduce an image, photo, table, or figure, except in the following cases:
 
 - If the image has a creative common license
-- If the image is in the public domain
+- If the image is in the public domain (PD)
 - If tables and figures from academic sources are for educational use or non-commercial research only. In this case, mention the author and the publisher as copyright holders.
 - If you bought the license of a photo from a stock photography website. You do not need to mention the website, but give credits to the creator/copyright holder depending on what the license you bought states.
 - If you use clip art from a free clip art website.
@@ -65,7 +70,7 @@ However, there are also more open licenses that allow you to reuse a work withou
 
 - One of the most common licenses you will encounter is CC-BY. This means that you are free to reuse the work as long as you attribute the original creator. 
 
-- Another license that allows you to reuse a work freely is when it is in the public domain (sometimes referred to as CC0)
+- Another license that allows you to reuse a work freely is when it is in the public domain (PD) or when the copyright holder waives their copyright (CC0).
 
 Not all creative commons licenses allow you to reuse the source freely. There might for example be limitations on the purpose of reusing the work (for example, CC-BY-NC means you can reuse the work, but not for commercial purposes), or on if you can adapt the work (For example, CC-BY-ND means you can reuse the work, but you are not allowed to change it). The image below gives an overview of the different Creative Commons licenses you might encounter and what you are allowed to do with the work:
 
@@ -75,7 +80,7 @@ How to attribute creative commons photos by Foter https://foter.com/blog/how-to-
 ## Step 3: Taking care of your own copyright
 You do not have to do anything to obtain copyright, such as a registration process or putting a copyright symbol (©) or statement in your work. It must be clear that you wrote or produced the work yourself.
 
-What can be helpful when sharing your own work is choosing for a creative commons license. These are licenses that allow others to reuse your work according to your wishes.
+What can be helpful when sharing your own work is choosing for a creative commons license. These are licenses that allow others to reuse your work according to your wishes. On the website of <a href="https://creativecommons.org/share-your-work/cclicenses/" target=_blank>Creative Commons</a> you can find more in depth information about the licenses.
 
 ```{admonition} Tip
 :class: tip 
