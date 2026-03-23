@@ -49,7 +49,7 @@ Manually add some references to your library. Look at the available document typ
 
 **Step 3: Add academic articles to your library via the browser:**
 
-Install relevant plugins to import an article straight from the browser. 
+Install relevant plugins to import an article straight from the browser. Try adding an article from Scopus or Dimensions directly via your browser. Does this work as expected, and does it always extract enough information?
 
 **Step 4: Adding academic articles via a PDF import:**
 
