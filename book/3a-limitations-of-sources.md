@@ -33,7 +33,7 @@ In short, evaluating information helps you build accurate, efficient, and credib
 
 ## Step 2: Considerations and Limitation of GenAI use
 
-GenAI tools can be helpful during the research process if they are used correctly. At the start of your project, you should check whether you are allowed to use these tools, and in what way. For more information on acknowledging your use of AI you can also have a look at [this section](5b-specifying-ai-use.md)
+GenAI tools can be helpful during the research process if they are used correctly. At the start of your project, you should check whether you are allowed to use these tools, and in what way. For more information on acknowledging your use of AI you can also have a look at [this section](5b-specifying-ai-use.md).
 
 ```{admonition} THESIS SUPERVISOR
 :class: important
