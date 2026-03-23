@@ -28,7 +28,7 @@ Some suggestions from Maastricht University can help you to make this process ea
 - Choose a topic you like
 - Talk to others about what topic you would like to study
 - Think about your future career
-- Look for a topic that build on existing research rather than doing something completely new to avoid your project from becoming too big.
+- Look for a topic that builds on existing research rather than doing something completely new to avoid that your project becomes too big.
 - Look into current events for inspiration
 (Maastricht University Library, 2016)
 
@@ -43,7 +43,7 @@ When you freewrite, you set a timer and just begin writing on your topic without
 ```
 ```{tab-item} Mindmaps
 
-When you create a mindmap you connect different concepts around your topic. Once you have gathered some information around your topic, you can use a concept map to structure and organise your initial brainstorm. On way to do this is via a concept map. A concept map is a visual way of analysing your subject. Start with your subject or research topic in the middle and think of related areas. For each area come up with more specified topics and examples.
+When you create a mindmap you connect different concepts around your topic. Once you have gathered some information around your topic, you can use a concept map to structure and organise your initial brainstorm. One way to do this is using a concept map. A concept map is a visual way of analysing your subject. Start with your subject or research topic in the middle and think of related areas. For each area come up with more specified topics and examples.
 
 ![mindmap](1a-mindmap.jpg)<br>
 "Concept Map" from <a href= "https://www.tudelft.nl/tulib/searching-resources/making-a-search-plan" target=_blank>TUlib</a> is licensed CC-BY-SA<br>
@@ -55,7 +55,15 @@ Making a concept map from the information you have available gives you a clearer
 ```{tab-item} Six questions
 Answer the six journalistic questions about your topic: 
 
-Write down  Who?, What?, When?, Where?, Why?, and How? and try to answer each one of these questions for your initial topic. By doing this you activate your own pre-existing knowledge about the topic. You can then supplement your initial ideas with information from general searches.
+These are:
+- Who?
+- What?
+- When?
+- Where?
+- Why?
+- How?
+
+Write them down and try to answer each one of these questions for your initial topic. By doing this you activate your own pre-existing knowledge about the topic, and you can then supplement your initial ideas with information from general searches.
 
 ```
 ````
