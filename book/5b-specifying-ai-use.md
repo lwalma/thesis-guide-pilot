@@ -29,7 +29,7 @@ Report the use of GenAI in specific sections of your thesis
 
 ## Step 1: Check what is allowed
 
-Currently, TU Delft has no central policy in place on in what ways students are allowed to use AI in their projects. As of the writing of this guide it depends on your specific program how much AI you are allowed to use. Step 1 is therefore that to check what policies are in place for your specific situation. 
+Currently, TU Delft has no central policy in place on what ways students are allowed to use AI in their projects. As of the writing of this guide it depends on your specific program how much AI you are allowed to use. Therefore, for Step 1, you should check what policies are in place for your specific situation. 
 
 ```{admonition} THESIS SUPERVISOR
 :class: important
@@ -38,7 +38,7 @@ It is good to check with your thesis supervisor what is allowed and what not and
 
 ## Step 2: Log all your uses of GenAI
 
-If you are allowed to use GenAI, make sure you keep track of all the ways you use AI while writing your thesis. Include the tools you used as well as the prompts so you can report this in your thesis or refer back to it later to see how you used the tools. You should document the prompts used with AI tools for your records. The prompts can be included where the AI use is disclosed, or elsewhere as appropriate, such as in an appendix or supplemental material.  
+If you are allowed to use GenAI, make sure you keep track of all the ways you use AI while writing your thesis. Include the tools you used as well as the prompts so you can report this in your thesis or refer back to it later to see how you used the tools. The prompts can be included where the AI use is disclosed, or elsewhere as appropriate, such as in an appendix or supplemental material.  
 
 ```{admonition} Careful
 :class: caution
@@ -51,7 +51,7 @@ If GenAI use is allowed by your supervisor, you should acknowledge throughout yo
 
 ### Citing Your AI Use
 
-If no format for reporting the use of GenAI exists in your program, consider the following practices from APA as a template:
+If no format for reporting the use of GenAI exists in your program, consider the following practices from APA as a template (TU Delft Library Education Support, n.d):
 
 ```{admonition} APA citation of AI use Example
 :class: note
@@ -71,7 +71,7 @@ OpenAI. (2025). _ChatGPT_ [Large language model]. https://chat.openai.com/chat
 2. The date of the version used is shown at the bottom of the page on the ChatGPT site.
 3. URL of the tool.
 4. Mention how you used the AI in your work (such as in the Methodology section or Introduction).
-(TU Delft Library Education Support, n.d).
+
 ```
 
 ### Where to put uses of GenAI in Your Thesis. 
