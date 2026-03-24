@@ -2,20 +2,15 @@
 
 ## Introduction
 
-Once you have done an initial orientation and have a preliminary search question to work with, it is good to dive deeper into the academic literature to find some additional directions and shape your knowledge about the academic context surrounding your specific topic. By doing an exploration of academic literature you get a broader overview of your topic.
-
-Have a look at the video explaining more about the goals and advantages of doing an exploration of academic literature:
-
-<iframe width="560" height="315" src="https://collegerama.tudelft.nl/Mediasite/Play/28750e6283484349b46b37a06e25a84c1d" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-"Exploration Theory" by TU Delft Library Education Support is licensed CC-BY<br><br>
+Once you have done an initial orientation and have a preliminary search question to work with, it is good to dive deeper into the academic literature to find some additional directions and shape your knowledge about the academic context surrounding your specific topic.
 
 By doing an exploration of academic literature you can:
 - Find new knowledge gaps
-- Learn about other disciplines working in your field
+- Discover new disciplines connected to your topic
 - Discover authors that are working on related research questions
 - Uncover keywords that are used within your topic to use for a content search
 
-Steps involved include first to create a good exploration question for an academic database. Followed by analysing the top terms, authors and keywords used in your field.
+Steps involved include first to create a good exploration question for an academic database, followed by analysing the top terms, authors and keywords used in your field.
 
 ::::{grid}
 :gutter: 2
