@@ -15,14 +15,14 @@ Skim the article to get a feel for its structure and contents and scan specific 
 :::
 
 :::{grid-item-card} Step 2 <br>
-[Close Reading](#step-2-close-reading-and-updating-your-search)<br>
-Read in more detail and take notes
+[Close Reading](#step-2-close-reading-note-taking-and-updating-your-search)<br>
+Read in more detail and take notes. Use your knowledge to update your search strategy
 
 :::
 
 :::{grid-item-card} Step 3 <br>
 [When to Stop](#step-3-when-to-stop-reading-and-searching)<br>
-Evaluate if you have read and searched enough information
+Evaluate if you have read and found enough information
 :::
 
 
@@ -40,24 +40,30 @@ The tabs below show the different parts commonly included in an academic article
 
 ```{tab-item} Title
 **Why Scan This Part?**
+
 Get a first broad sense of the subject and the relevance.
 
 **How to Scan**
+
 Scan the title for relevant keywords that you have determined in advance. This can help to prioritize the titles on your reading list.
 __Tip: a title does not always cover the content of an article!__
 
 **Key Questions**
-- How relevant is this article for my research? 
+
+How relevant is this article for my research? 
 
 ```
 ```{tab-item} Author and affiliation
 **Why Scan This Part?**
+
 Recognise the author based on reputation and recognition (authority).
 
 **How to Scan**
+
 Look at the author name, and the affiliation of the author (usually included on the first page near the author's name).
 
 **Key Questions**
+
 To determine the authority of an author in a certain field try to answer these questions:
 Do you know the author? Are they an authority, a recognized author in the field?
 
@@ -70,13 +76,16 @@ Look also at the affiliation. Does the author work at a (in the field) well-know
 
 ```{tab-item} Which Journal / Conference Proceeding
 **Why Scan This Part?**
+
 Authority: importance of the journal/proceedings in the field. It is important to know in which journal or proceedings an article is published.
 Each research area has its most important (trusted) journals or proceedings.
 
 **How to Scan**
+
 Look at the name of the journal or conference proceeding, which is commonly found on the first page of an article.
 
 **Key Questions**
+
 Do you know about the reputation of the journal or the conference in your field?
 
 If you don't know:
@@ -86,98 +95,124 @@ Does your supervisor know about the journal?
 ```
 ```{tab-item} Summary/abstract
 **Why Scan This Part?**
+
 Look at the relationship and relevance to your own research.
 
 **How to Scan**
+
 An abstract contains the essence of the research described. Every part of the publication is reflected. On this basis decide if the source is useful for you. The context of the way the topic is treated must be (more or less) similar to the context of your research topic.
 
 **Key Questions**
+
 Are the aspects of the topic mostly the same as in your research topic?
 
 ```
 ```{tab-item} Keywords
 **Why Scan This Part?**
+
 Define the main topics of the publication.
 
 **How to Scan**
+
 Keywords are usually included on the first page of an article, near the abstract, and describe the main topics of a publication.
 
 **Key Questions**
+
 Are the keywords close and relevant to your research topic?
 
 ```
 ```{tab-item} Introduction/preface
 **Why Scan This Part?**
+
 Shows what to expect.
 
 **How to Scan**
+
 An introduction is intended to convey the writer’s ideas and the background of his research to the reader. Read this part before deciding to do close reading to frame your understanding of the article.
 
 **Key Questions**
+
 Does this information match your expectations?
 
 ```
 ```{tab-item} Conclusion
 **Why Scan This Part?**
+
 Define a relationship to your own research.
 
 **How to Scan**
+
 Read the conclusions at the end of each chapter and the final conclusion of the publication.
 In the conclusions you will find the answer to the research question of the publication.
 
 **Key Questions**
-Is this answer relevant for your topic?
+
+How does this answer relate to your to your topic and pre-existing knowledge?
+Is the answer surprising?
+Do you understand the answer and what research it is build on?
 
 ```
 ```{tab-item} Diagrams, Graphics and Charts
 **Why Scan This Part?**
+
 It can scaffold understanding of complex text, and graphics often depict major findings or key information about the experimental methods
 
 **How to Scan**
+
 Look at the figures, and read the accompanying captions without reading the results in too much detail.
 
 **Key Questions**
+
 What key findings or methods do the diagrams, graphics or charts depict?
 How are they connected to your own research questions?
 
 ```
 ```{tab-item} Chapters/paragraphs
 **Why Scan This Part?**
+
 How can you use this information in your own research?
 
 **How to Scan**
+
 Look at the titles of chapters and paragraphs. Read the beginning and the end (conclusions) of each chapter to get a detailed picture of the contents and completeness of the publication.
 
 **Key Questions**
+
 Is the publication suitable to build on your own research?
 
 ```
 ```{tab-item} Reference list
 **Why Scan This Part?**
+
 Check for new insights and/or similarities with your selection.
 
 **How to Scan**
+
 By checking out the literature references you are able to see on which insights the publication is based. The reference list can help you find new views and insights for your own research.
 
 **Key Questions**
+
 Do you recognise any references: author names, journals etc.?
 What might be interesting references to look into further?
 
 ```
 ```{tab-item} Date
 **Why Scan This Part?**
+
 Define the relevance based on actuality of your topic.
 
 **How to Scan**
+
 Check the publication dates!
 
 **Key Questions**
+
 Does your topic require current information, or will older sources work as well?
 
 ```
 ````
 
-## Step 2: Close Reading and Updating Your Search
+## Step 2: Close Reading, Note-taking and Updating Your Search
 Close reading is a more focused and slow type of reading which includes actively asking yourself questions about the text and taking notes while reading. Reserve this type of reading for articles you have selected, scanned and deemed highly relevant for your project. After you have close read a source you should be able to understand and summarise it.
 When you do close reading, you often combine active reading and asking questions with techniques like skimming and scanning. Before close reading the full article, make sure you have done an initial scan of all the relevant sections. Focus first on the abstract, discussion and conclusion before moving on to the rest of the article to make it easier to understand the contents and goals of the article before diving further into it.
 
@@ -188,14 +223,14 @@ The video below tells you more about the process of reading and which sections t
 “How to Read a Scholarly Article” by PittCClibrary is licensed CC-BY
 
 ### Note-taking
-As you go through the text and read, make sure you take notes. If you don't, you may lose a lot of time finding back certain quotes or information later in your project. 
+As you go through the text and close read, make sure you take notes. If you don't, you may lose a lot of time finding back certain quotes or information later in your project. 
 
-1. Include citation of the source when notetaking, or take notes on the article itself
+1. Include citation of the source when note-taking, or take notes on the article itself
 
-2. Ask yourself questions while reading to promote active reading: 
-Questions you can ask yourself while reading:
-- How does the author know this and does he give any scientific evidence?
+2. Ask yourself the following questions while reading to promote active reading: 
+- How does the author know this and do they give any scientific evidence?
 - How does this compare to other things I have read or know?
+- Are there certain things, such as terms, concepts or arguments, that I do not understand yet? Make a note of this so you can come back to it. 
 - Do I understand the methodology, reasoning and evidence?
 - Are the results, methods and conclusions consistent with each other?
 - Does the author correctly explain any surprising results?
@@ -208,15 +243,15 @@ Questions you can ask yourself while reading:
 ```{admonition} Tip: Connect to your reference manager
 :class: tip
 
-You can connect your notes to your reference manager, either by connecting them to the references in your reference manager library, or by using plugins to cite sources directly from the reference manager as you do your notetaking in Word or other notetaking apps.
+You can connect your notes to your reference manager, either by connecting them to the references in your reference manager library, or by using plugins to cite sources directly from the reference manager as you do your notetaking in Word or other note-taking apps.
 
 ```
 
 ### Updating Your Search Strategy
 
-While you have made an initial search strategy using the knowledge you had at the time, as you read relevant articles your ideas will likely evolve and you may need to adapt your search strategy to find more relevant articles. Some suggestions: 
-- When you are reading through your sources, take notes of relevant keywords you come across and update your literature search. 
-- If an article is highly relevant, consider using this as a key article to do snowballing, similar document searching or AI searching to find additional literature (see also: [2d - additional search methods](2d-additional-search-methods.md))
+While you have made an initial search strategy using the knowledge you had at the time, as you close read relevant articles your ideas will likely evolve and you may need to adapt your search strategy to find more relevant articles. Some suggestions: 
+- When you are close reading through your sources, take notes of relevant keywords you come across and update your literature search. 
+- If an article is highly relevant, consider using this as a key article to do snowballing or similar document searching to find additional literature (see also: [2d - additional search methods](2d-additional-search-methods.md))
 
 
 ## Step 3: When to Stop Reading and Searching
@@ -226,7 +261,7 @@ You stop searching and reading when you either don't find any new literature any
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ojRfybNJNuk?si=qUHSDCVJIsCvk6Uv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 "When to stop reading and start writing" by Erasmus Universiteit Rotterdam is licensed CC-BY<br><br>
 
-Some practical guidelines you can take when you are reading to find out when you should either stop, or continue searching and reading
+Some practical guidelines you can take when you are reading to find out when you should either stop, or continue searching and reading:
 
 1. Check with your supervisor. Share your findings and ideas. They can help you figure out whether you have found enough literature, or if you should continue.
 
