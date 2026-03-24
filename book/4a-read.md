@@ -15,7 +15,7 @@ Skim the article to get a feel for its structure and contents and scan specific 
 :::
 
 :::{grid-item-card} Step 2 <br>
-[Close Reading](#step-2-close-reading-note-taking-and-updating-your-search)<br>
+[Close Reading, Note-taking and Updating Your Search](#step-2-close-reading-note-taking-and-updating-your-search)<br>
 Read in more detail and take notes. Use your knowledge to update your search strategy
 
 :::
