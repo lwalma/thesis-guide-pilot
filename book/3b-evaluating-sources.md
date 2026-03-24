@@ -94,7 +94,7 @@ Imagine you are writing a report on the environmental impact of lithium-ion batt
 ## Practice with Research Scenarios
 
 <iframe src="https://tudelft.h5p.com/content/1292803412552756187/embed" aria-label="Test 3a: Evaluating Sources" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
-
+"<a href="https://tudelft.h5p.com/content/1292803412552756187/embed" target=_blank>Test 3a: Evaluating Sources</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/" target=_blank>CC-BY</a><br><br>
 
 ## References
 - Blakeslee, S. (2004). The CRAAP Test. LOEX Quarterly, 31(3). https://commons.emich.edu/loexquarterly/vol31/iss3/4
