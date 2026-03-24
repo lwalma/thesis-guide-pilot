@@ -39,7 +39,7 @@ When using someone else’s copyrighted work, attribute copyrighted work in the 
 
 ```{admonition} Warning: Always check before reusing someone's work!
 :class: warning
-All work is copyrighted, and if you want to reuse it, you need to know if you have permission to do so. It is not always enough to simply cite where something is from, you need to check if you are allowed to reuse it.
+Almost all work is copyrighted, and if you want to reuse it, you need to know if you have permission to do so. It is not enough to simply cite where something is from, you need to check if you are allowed to reuse it.
 ```
 
 If a work is in the public domain (from 70 years after the death of the maker of a work if the copyright holder is a physical person, or after the year of the first publication if the copyright holder is a legal person), you don’t have to ask for permission but you have to mention that it belongs to “the public domain”.
