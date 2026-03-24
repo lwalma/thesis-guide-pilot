@@ -64,7 +64,7 @@ Once you have your initial question, you can look at its different components an
 
 <iframe src="https://library-edu-content.maastrichtuniversity.nl/wp-admin/admin-ajax.php?action=h5p_embed&id=205" width="758" height="452" frameborder="0" allowfullscreen="allowfullscreen" title="RD13-Formulating research question"></iframe><script src="https://library-edu-content.maastrichtuniversity.nl/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<a href="https://maastrichtuniversity.libwizard.com/f/research-question?utm_source=edusources.nl&utm_content=link" target="_blank">"From broad to narrow: writing your research question"</a> by Maastricht University Library is licensed CC-BY-SA
+<a href="https://maastrichtuniversity.libwizard.com/f/research-question?utm_source=edusources.nl&utm_content=link" target="_blank">"From broad to narrow: writing your research question"</a> by <a href="https://library.maastrichtuniversity.nl/" target=_blank>Maastricht University Library</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target=_blank>CC-BY-SA 4.0</a>
 
 Need more information? Check out this guide from <a href="https://maastrichtuniversity.libwizard.com/f/research-question?utm_source=edusources.nl&utm_content=link" target="_blank">Maastricht University</a>
 
