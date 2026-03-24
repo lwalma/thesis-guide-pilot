@@ -2,7 +2,7 @@
 
 ## Introduction
 
-When you have selected the sources you want to use for your MSc thesis, it is time to process them. You need to build your research project on quality sources at the start of your project, and you need to go back to your sources and connect your own research outcomes of your project to what others have found. Processing your sources by reading, summarising and synthesising helps you engage with them on a deeper level. By strategcally reading and summarising, you will understand the contents of your sources better, and the process of synthesising helps you to connect multiple sources together and to add your own voice and critical analysis. This chapter walks you through the three key parts of processing sources: reading, summarising and synthesising.
+When you have selected the sources you want to use for your MSc thesis, it is time to process them. You need to build your research project on quality sources at the start of your project, and you need to go back to your sources and connect your own research outcomes to what others have found. Processing helps you engage with your sources on a deeper level. By strategcally reading and summarising, you will understand the contents of your sources better, and the process of synthesising helps you to connect multiple sources together and to add your own voice and critical analysis. 
 
 ![analyse literature](4-process.png)
 
