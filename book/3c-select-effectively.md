@@ -9,7 +9,8 @@ Now that you have done your initial search, analysed and refined your search res
 You can watch a short video recap and see a research scenario here below:
 
 <iframe title="A-Z list" width="450" height="300" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src=https://collegerama.tudelft.nl/Mediasite/Play/ed24f15b2a8d4f43bbe62a4573f341531d allowfullscreen msallowfullscreen allow="fullscreen"></iframe><br>
-"Selecting Resources" by TU Delft Library Education Support is licensed CC-BY<br><br>
+
+"<a href="https://collegerama.tudelft.nl/Mediasite/Play/ed24f15b2a8d4f43bbe62a4573f341531d" target=_blank>Selecting Resources</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
 
 ::::{grid}
 :gutter: 2
@@ -59,6 +60,6 @@ Once you have created an initial list of sources you want to study further, this
 Use the research-based scenario below to practice more with the skills discussed in this chapter
 
 <iframe src="https://tudelft.h5p.com/content/1292800240883413237/embed" aria-label="3b - Practice - Select Academic Literature" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
-"<a href="https://tudelft.h5p.com/content/1292800240883413237/embed" target=_blank>3b - Practice - Select Academic Literature</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/" target=_blank>CC-BY</a><br><br>
+"<a href="https://tudelft.h5p.com/content/1292800240883413237/embed" target=_blank>3b - Practice - Select Academic Literature</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
 
 
