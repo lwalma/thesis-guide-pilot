@@ -6,7 +6,7 @@ A synthesis is not the same as a summary. When you synthesise information, you a
 Watch the video below to learn more about the process of synthesising:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ObK6J7vGnw8?si=OZ29ZpKha2QjicyF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-“<a href="https://www.youtube.com/watch?v=ObK6J7vGnw8&" target=_blank>Research Synthesis</a>” by <a href="https://www.youtube.com/@USULibraries" target=_blank>USU Libraries</a> is licensed CC-BY-NC<br><br>
+“<a href="https://www.youtube.com/watch?v=ObK6J7vGnw8&" target=_blank>Research Synthesis</a>” by <a href="https://www.youtube.com/@USULibraries" target=_blank>USU Libraries</a> is licensed <a href=https://creativecommons.org/licenses/by-nc/4.0/ target=_blank>CC-BY-NC</a><br><br>
 
 ::::{grid}
 :gutter: 3
@@ -93,7 +93,7 @@ Do you want more information on how to build good paragraphs and sentences? Have
 ## Practice
 As explained, a synthesis is more than a summary of sources. In a synthesis you add your own thoughts and critical analysis. Unsure about the difference between a synthesis and a summary? Practice with a scenario and see if you recognise the difference between _descriptive_ writing (which is commonly used in a summary) and _critical_ writing (needed for writing a synthesis)
 <iframe src="https://tudelft.h5p.com/content/1292830464885376387/embed" aria-label="Single Choice Set" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script><br>
-"<a href=https://vle-educability.uc3m.es/mod/page/view.php?id=3683&forceview=1 target=_blank>IL M4 Activity 2</a>" by <a href="https://vle-educability.uc3m.es/" target=_blank>Educability</a> is licensed CC-BY-NC-SA<br><br>
+"<a href=https://vle-educability.uc3m.es/mod/page/view.php?id=3683&forceview=1 target=_blank>IL M4 Activity 2</a>" by <a href="https://vle-educability.uc3m.es/" target=_blank>Educability</a> is licensed under <a href=https://creativecommons.org/licenses/by-nc-sa/4.0/ target=_blank>CC-BY-NC-SA</a><br><br>
 
 ## References
 
