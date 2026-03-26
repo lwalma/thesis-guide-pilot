@@ -25,7 +25,7 @@ Some links to dive into more detail on the topic
 Open Science is a collective name for a variety of practices. Underlying Open Science is the idea of disseminating scientific knowledge as widely as possible (Open Life Science, n.d.). 
 
 ![Overview of Open Science](5d-open-science.png)
-"<a href=10.5281/zenodo.3332807 target=_blank>Overview of Open Science</a>" by <a href=10.5281/zenodo.3332807 target=_blank>Scriberia with The Turing Way community</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY 4.0</a>
+"<a href=https://zenodo.org/records/13882307 target=_blank>Overview of Open Science</a>" by <a href=https://zenodo.org/records/13882307 target=_blank>Scriberia with The Turing Way community</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY 4.0</a>
 
 Examples of Open Science:
 
