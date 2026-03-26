@@ -25,7 +25,7 @@ Some links to dive into more detail on the topic
 Open Science is a collective name for a variety of practices. Underlying Open Science is the idea of disseminating scientific knowledge as widely as possible (Open Life Science, n.d.). 
 
 ![Overview of Open Science](5d-open-science.png)
-This illustration is created by Scriberia with The Turing Way community. Used under a CC-BY 4.0 license.
+"<a href=10.5281/zenodo.3332807 target=_blank>Overview of Open Science</a>" by <a href=10.5281/zenodo.3332807 target=_blank>Scriberia with The Turing Way community</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY 4.0</a>
 
 Examples of Open Science:
 
@@ -49,7 +49,7 @@ FAIR software is about making available the tools researchers create for their r
 Citizen Science is a great way non-experts actively contribute to scientific research. A famous example of citizen science is <a href="https://zoo4.galaxyzoo.org/" target=_blank>Galaxy Zoo</a>, where since 2007 over 100.000 of volunteers have helped classify millions of galaxies. The success of the project spawned a platform, <a href="https://www.zooniverse.org/" target=_blank>Zooniverse</a>, where other citizen science projects now have a home. 
 ```
 ````
-Examples of Open Science adapted from <a href="https://www.edx.org/learn/research/delft-university-of-technology-open-science-sharing-your-research-with-the-world" target=_blank>Open Science: Sharing Your Research with the World is licensed CC-BY-NC-SA 4.0</a>
+Adapted from "Examples of Open Science" by <a href="https://www.edx.org/learn/research/delft-university-of-technology-open-science-sharing-your-research-with-the-world" target=_blank>Open Science: Sharing Your Research with the World</a> is licensed under <a href=https://creativecommons.org/licenses/by-nc-sa/4.0/ target=_blank>CC-BY-NC-SA 4.0</a>
 
 Adhering to Open Science practices can be helpful, especially if you are aiming for a career as a researcher, or if you want to enable others to reuse your work. Some advantages include:
 
@@ -64,7 +64,7 @@ Adhering to Open Science practices can be helpful, especially if you are aiming 
 
 - With open science, research and data are published open access. This means that everyone will have access to publications, regardless of which country or community they are from and what journals they subscribe to. In this way everyone across the globe can benefit from scientific research.
 ```
-Advantages of Open Science adapted from <a href="https://www.edx.org/learn/research/delft-university-of-technology-open-science-sharing-your-research-with-the-world" target=_blank>Open Science: Sharing Your Research with the World is licensed CC-BY-NC-SA 4.0</a>
+Adapted from "Advantages of Open Science" by <a href="https://www.edx.org/learn/research/delft-university-of-technology-open-science-sharing-your-research-with-the-world" target=_blank>Open Science: Sharing Your Research with the World</a> is licensed under <a href=https://creativecommons.org/licenses/by-nc-sa/4.0/ target=_blank>CC-BY-NC-SA 4.0</a>
 
 ## Step 2: Common Resources to Get Started
 
