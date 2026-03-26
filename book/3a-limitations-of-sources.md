@@ -37,7 +37,7 @@ GenAI tools can be helpful during the research process if they are used correctl
 
 ```{admonition} THESIS SUPERVISOR
 :class: important
-It is good to discuss your planned AI use with your thesis supervisor and to check what is allowed.
+It is strongly suggested that you discuss your planned AI use with your thesis supervisor and check what is allowed.
 ```
 
 GenAI use comes with a lot of considerations, and this means you should critically evaluate the output of a tool, as well as the need to use a tool.
