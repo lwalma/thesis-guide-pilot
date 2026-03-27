@@ -4,6 +4,21 @@
 
 Once you have your topic, it is time to formulate an information search question. This is a process that requires time and thought, and importantly; specifying exactly what you want to study. What information do you need to further shape your project?
 
+The terms research question and information search question are sometimes used interchangeably. In this guide we distinguish between information search questions and research questions. We define them as follows:
+
+- A research question is the focus of you master thesis project, something _you_ want to design or research. The answer of a research question commonly cannot be found in literature, but by experimenting and prototyping.
+
+- Information search questions help you find out what _others_ have designed or researched about your topic or research question. They are directly related to your (draft) research question, but can be answered by conducting a literature search.
+
+There are specific moments when relating to what others have written is necessary: 
+
+![1b-information-search-question](1b-information-search-question.png)
+
+1 - Beginning of your project: Usually you do an in-depth search on what others have done (literature review), based on a preliminary research question.
+2 - Conducting your research: Articles help you shape your project, they can help you find new directions when your project is stuck, or new sources to read. 
+3 - When you finish your project, you connect your findings to what others have done. 
+
+
 ::::{grid}
 :gutter: 2
 
