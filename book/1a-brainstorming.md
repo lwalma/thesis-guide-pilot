@@ -46,7 +46,7 @@ A mindmap is a visual way of analysing your subject. Start with your subject or 
 
 An example of a mindmap is found in the image below:
 
-![mindmap](1b-mindmap.jpg)
+![mindmap](1a-mindmap.jpg)
 "Mindmap" by TU Delft Library Education Support is licensed CC-BY-SA
 
 Possible questions that can be derived from the mindmap are:
