@@ -84,6 +84,11 @@ If you want to read more about how to write this type of summary, consult <a hre
 
 ```
 
+```{tab-item} Visual Tools
+You can use a tool like Miro, Powerpoint or Canva to summarise your sources. For example, put the most relevant papers in a Powerpoint presentation, using only 1 slide per paper. Include a screenshot of the first page, bibliographical information and representative key results. These visual presentations are a nice way to discuss them with your supervisor, and to help you condense the main points and your opinions about the source.
+
+```
+
 ```{tab-item} Annotated Bibliography
 Annotated Bibliographies are more elaborate overviews of your sources where each source is accompanied by three things:
 1.	Bibliographic information of the source
@@ -95,6 +100,7 @@ Annotated Bibliographies are more elaborate overviews of your sources where each
 This type of summary can be very helpful to engage critically with the sources in your project.
 Want to learn more about how to create this type of summary? Visit the website from the <a href="https://owl.excelsior.edu/research/annotated-bibliographies/annotated-bibliography-tips/"  target=_blank>Excelsior University Online Writing Lab</a> for more tips.
 ```
+
 ````
 
 ``` {admonition} About AI
